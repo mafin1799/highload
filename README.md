@@ -9,6 +9,8 @@ MAU 40млн  по данным Яндекса
 Есть три сервиса, которыми я попробовал определить аудиторию самостоятельно по домену maps.yandex.ru
 
 > https://be1.ru/stat/maps.yandex.ru - 1.68 млн пользователей
+
 > https://pr-cy.ru/site-statistics/?taskId=966ec1c948407cca63e21f2d589014d0 - 1.6 млн пользователей
+
 > https://www.similarweb.com/ru/website/maps.yandex.ru/ - 1.7 млн пользователей
 
